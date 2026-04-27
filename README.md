@@ -14,7 +14,7 @@ Data shows that the most successful high-protein products currently rely on **Mi
 ## B. Project Links
 *   **Interactive Notebook:** https://colab.research.google.com/drive/1v2XE2Ibj6A2gvm38fZn9VEXQqYPsoplM?usp=sharing
 *   **Interactive Dashboard:** https://github.com/Ivan-SHYAKA/sugar-trap-market-analysis/blob/main/Helix_CPG_Dashboard.html
-*   **Strategic Presentation:** [INSERT YOUR SLIDES/VIDEO LINK HERE]
+*   **Strategic Presentation:** https://docs.google.com/presentation/d/e/2PACX-1vRvGnww72QPpnjAaGh649656POApAM-xQ8tbykPjMgywV5qUoUx01SCvw58VORmsKTVf7J1OeLOA7_H/pub?start=true&loop=false&delayms=3000
 
 ---
 
